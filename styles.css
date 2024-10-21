@@ -13,3 +13,19 @@ table {
   max-width: 80%;
   border-collapse: collapse;
 }
+
+body{
+  background-color: #2b2d42;
+}
+
+p,li {
+  color: #8d99ae;
+}
+
+button{
+  margin: 1em;
+}
+
+@media only screen and (max-width: 600px){
+  
+}
